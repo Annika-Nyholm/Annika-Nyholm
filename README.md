@@ -3,10 +3,17 @@
 I'm **Annika Nyholm**, a former pharmacy technician who has embarked on an exciting new journey towards becoming a **Front End Developer**. My background might be in healthcare, but my passion for creativity and problem-solving led me to the world of coding, and I couldn't be happier with the decision!
 
 ### About Me:
-- 💻 I'm currently studying Front End Development at YH Mediainstitutet, where I'm learning everything from **HTML/CSS**, **JavaScript** (React & Vue), to **API development** with **MySQL** and **MongoDB**.
+- 💻 Graduated May 2025 as Front End Development at YH Mediainstitutet, where I learned everything from **HTML/CSS**, **JavaScript** (React & Vue), to **API development** with **MySQL** and **MongoDB**.
 - 🎨 I love the creative side of web development, but as I've delved deeper into coding, I've discovered how thrilling it is to see my code come to life in real-time.
 - 🚀 I've gained hands-on experience with **agile project work**, **graphic tools** like Figma and Photoshop, and **UX/usability** concepts.
 - 🧪 I'm also familiar with **e2e testing** and various other testing techniques.
+
+### 💼 Internship / Practical Experience
+During my two internship periods (26 weeks in total) at **Keylinx AB**, I gained hands-on experience in fullstack development:  
+- 🖥️ Worked with **C#** and **MudBlazor** for web applications.  
+- 🗄️ Managed **databases** using **SQL Server** and **Entity Framework**.  
+- 🔄 Developed both frontend and backend functionality, including UI, database logic, and API integration.  
+- 🤝 Collaborated in agile teams and participated in the full development cycle, from design to implementation and testing.
 
 ### What I'm Passionate About:
 - I'm drawn to **varied projects** and enjoy tackling new challenges. So far, everything I've learned has been exciting, and I'm always looking forward to more.
@@ -23,6 +30,8 @@ Feel free to check out my repos, and if you'd like to connect, you can reach me 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-7A7A7A?style=flat&logo=dotnet&logoColor=white)
 
 ## ⚙️ Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
